@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, my name is Alexander Krivosheev. Wellcome :v:
 
 <!--
 **alkrivosheev/alkrivosheev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
